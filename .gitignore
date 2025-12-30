@@ -1,1 +1,15 @@
-
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+dist/
+*.egg-info/
+.installed.cfg
+*.egg
+other_expenses_result.json
+.DS_Store
+*.swp
